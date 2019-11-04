@@ -20,7 +20,8 @@
 
 title: Css Advanced 2
 email: ivo@example.com
-description: 
+description: some descriptioin
+destination: docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ivailopapazov
